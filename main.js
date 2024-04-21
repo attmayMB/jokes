@@ -84,6 +84,7 @@ const quotes = [
     "My mom called to warn me that someone was driving the wrong way on the highway I was on. It wasn't one person - it was everyone!",
     "I'm considering a new line of work that I can really see myself doing. I want to be a mirror inspector!",
     "I'm trying a new hobby to make some cash: I'm building boats in my attic. Sails are through the roof!",
+    "I used to made toy draculas for a living. There were only two of us, so I had to make every second Count!",
 ];
 
 const quoteEl = document.getElementById("quote");
