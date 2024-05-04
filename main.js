@@ -28,7 +28,7 @@ const quotes = [
     "I never wanted to believe that my dad was stealing from his job as a road worker, but when I got home, all the signs were there.",
     "I had a dream last night that I was a muffler... I woke up exhausted!",
     "I just learned about a 12 inch tall king. He was a terrible leader... but he made a great ruler!",
-    "Nothing tops a plain pizza! <<THIS ONE FAILED>>",
+    "Nothing tops a plain pizza!",
     "Water is lighter than butane. After all, butane is a lighter fluid.",
     "The Lego store just reopened after closing during lockdown. People are lined up for blocks!",
     "I keep asking my friend what LGBTQ means, but I can't get a straight answer.",
