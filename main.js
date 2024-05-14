@@ -85,6 +85,7 @@ const quotes = [
     "I'm considering a new line of work that I can really see myself doing. I want to be a mirror inspector!",
     "I'm trying a new hobby to make some cash: I'm building boats in my attic. Sails are through the roof!",
     "I used to made toy draculas for a living. There were only two of us, so I had to make every second Count!",
+    "I am considering playing quiet tennis. It's like regular tennis, but without the racket.",
 ];
 
 const quoteEl = document.getElementById("quote");
