@@ -87,6 +87,7 @@ const quotes = [
     "I used to made toy draculas for a living. There were only two of us, so I had to make every second Count!",
     "I am considering playing quiet tennis. It's like regular tennis, but without the racket.",
     "I tried to explain my puns to my kleptomaniac friend... but he took things literally.",
+    "WTF! Someone stole my bag of fruit! I'm peachless!",
 ];
 
 const quoteEl = document.getElementById("quote");
