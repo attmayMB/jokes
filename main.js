@@ -88,6 +88,10 @@ const quotes = [
     "I am considering playing quiet tennis. It's like regular tennis, but without the racket.",
     "I tried to explain my puns to my kleptomaniac friend... but he took things literally.",
     "WTF! Someone stole my bag of fruit! I'm peachless!",
+    "Scientists have successfully grown human vocal chords in a Petri dish. The results speak for themselves!",
+    "A shoe shop near me burnt to the ground. Let's pray for all the lost soles... 🙏",
+    "My friend replaced his mattress with a trampoline. His wife hit the roof!",
+    "A company just created the world's strongest suction cup! I have no idea how they pulled it off.",
 ];
 
 const quoteEl = document.getElementById("quote");
