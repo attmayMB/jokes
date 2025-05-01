@@ -92,6 +92,10 @@ const quotes = [
     "A shoe shop near me burnt to the ground. Let's pray for all the lost soles... 🙏",
     "My friend replaced his mattress with a trampoline. His wife hit the roof!",
     "A company just created the world's strongest suction cup! I have no idea how they pulled it off.",
+	"I spent months writing a book on dogs. The publisher rejected it...they said I should have used paper.",
+	"I just watched a documentary about beavers. It was the best dam program I've ever seen!",
+	"If you're ever very frustrated, try shouting into a colander. Just be careful: it will strain your voice!",
+	"Have you ever tried playing tennis with a cymbal? It makes a terrible racket.",
 ];
 
 const quoteEl = document.getElementById("quote");
