@@ -96,6 +96,14 @@ const quotes = [
     "I just watched a documentary about beavers. It was the best dam program I've ever seen!",
     "If you're ever very frustrated, try shouting into a colander. Just be careful: it will strain your voice!",
     "Have you ever tried playing tennis with a cymbal? It makes a terrible racket.",
+    "Did you hear they're making pillowcases out of corduroy now? It's making headlines!",
+    "I just learned about something called recency bias...I think it may be my favorite thing ever.",
+    "I bought a wig for only a dollar today! It was a small price toupée. ",
+    "Shoutout to the guy who has played the triangle in my favorite band for 10 years! Thank you for every ting!",
+    "A new jet design is made of rubber so crashes aren't as catastrophic. Amazing work by the scientists at Boeing, Boeing, Boeing! ",
+    "Apparently they mixed crab DNA with cheetah DNA... Yikes... That could go sideways really fast!",
+    "My neighbor was unable to afford his water bill... so I sent him a get well soon card.",
+    "It's open Mike night at autopsy club!!",
 ];
 
 const quoteEl = document.getElementById("quote");
