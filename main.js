@@ -1,4 +1,4 @@
-const quotes = [
+window.quotes = [
     "Are non-dads allowed to make dad jokes? Or is it a \"faux pa\"",
     "You hear a knock at the door. You open it. No one is there. It's just a faucet with a basin. Let that sink in.",
     "You know what Yoda said when he saw himself in 1080p for the first time? HD M I",
@@ -104,6 +104,7 @@ const quotes = [
     "It's open Mike night at autopsy club!!",
 ];
 
+const quotes = window.quotes;
 const quoteEl = document.getElementById("quote");
 const jokeLinkEl = document.getElementById("joke-link");
 
