@@ -107,12 +107,11 @@ const quotes = [
 ];
 
 const quoteEl = document.getElementById("quote");
-const jokeLinkEl = document.getElementById("joke-link"); // New: Get the message container
+const jokeLinkEl = document.getElementById("joke-link");
 
 const rerollQuote = () => {
     quoteEl.innerText = quotes[Math.floor(quotes.length * Math.random())];
 }
 
-// Attach the click event to the entire message container
 jokeLinkEl.onclick = rerollQuote;
 rerollQuote();
