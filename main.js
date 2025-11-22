@@ -1,7 +1,6 @@
 const quotes = [
     "Are non-dads allowed to make dad jokes? Or is it a \"faux pa\"",
     "You hear a knock at the door. You open it. No one is there. It's just a faucet with a basin. Let that sink in.",
-    "Yoshi invited me to a party and I asked what he wanted me to bring. I offered beer, but he said... brrrring POP!",
     "You know what Yoda said when he saw himself in 1080p for the first time? HD M I",
     "I was kidnapped by a group of mimes and they did unspeakable things!",
     "There's a fine line between a numerator and a denominator.",
@@ -31,7 +30,6 @@ const quotes = [
     "Nothing tops a plain pizza!",
     "Water is lighter than butane. After all, butane is a lighter fluid.",
     "The Lego store just reopened after closing during lockdown. People are lined up for blocks!",
-    "I keep asking my friend what LGBTQ means, but I can't get a straight answer.",
     "My printer kept playing music, turned out the paper was jamming.",
     "I can't figure out why someone would steal my weight loss pills. They have nothing to gain!",
     "I quit my job as a treadmill tester. It just felt like I wasn't going anywhere...",
