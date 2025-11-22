@@ -4,8 +4,8 @@ body {
     padding: 0;
     width: 100%;
     min-height: 100vh;
-    background: #131313;
-    color: #efefef;
+    background: #1A1A2E; 
+    color: #FFFFFF; 
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     user-select: none;
@@ -21,7 +21,7 @@ main {
 .message {
     padding: 2rem;
     border-radius: 1rem;
-    background: #36393f;
+    background: #006666; 
     max-width: 40vw;
     min-width: 300px;
     display: flex;
