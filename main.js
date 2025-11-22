@@ -99,12 +99,8 @@ const quotes = [
 ];
 
 const quoteEl = document.getElementById("quote");
-const timeEl = document.getElementById("now");
 const rerollQuote = () => {
     quoteEl.innerText = quotes[Math.floor(quotes.length * Math.random())];
-
-    const now = new Date();
-    timeEl.innerText = `Today at ${now.getHours().toString().padStart(2, "0")}:${now.getMinutes().toString().padStart(2, "0")}`
 }
 
 quoteEl.onclick = rerollQuote;
