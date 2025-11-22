@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>All Jokes - attmay Jokes</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&&display=swap" rel="stylesheet" />
+        <link href="main.css" rel="stylesheet" />
+        <style>
+            /* Custom styles for the list page */
+            h1 {
+                text-align: center;
+                margin-top: 2rem;
+                font-size: 2.5rem;
+                font-weight: 600;
+                color: #006666; /* Your primary teal color */
+            }
+            #joke-list {
+                max-width: 800px;
+                margin: 2rem auto;
+                padding: 0 20px;
+            }
+            .joke-item {
+                background-color: #002e2e; /* A slightly lighter teal/dark blue for contrast */
+                padding: 1rem;
+                margin-bottom: 1rem;
+                border-radius: 0.5rem;
+                font-size: 1.1rem;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>The Full Collection</h1>
+        <div id="joke-list">
+            </div>
+
+        <script src="main.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                // Ensure the window.quotes array is available
+                const allJokes = window.quotes || []; 
+                const listContainer = document.getElementById('joke-list');
+
+                if (allJokes.length > 0) {
+                    allJokes.forEach((joke, index) => {
+                        const jokeDiv = document.createElement('div');
+                        jokeDiv.classList.add('joke-item');
+                        
+                        // Display the joke with its index number
+                        jokeDiv.textContent = `${index + 1}. ${joke}`; 
+                        
+                        listContainer.appendChild(jokeDiv);
+                    });
+                } else {
+                    listContainer.textContent = "Error: Could not load jokes.";
+                }
+            });
+        </script>
+    </body>
+</html>
