@@ -18,7 +18,6 @@ window.quotes = [
     "I just found out something that's odd. It's a number not divisible by 2.",
     "My friend keeps saying \"cheer up man it could be worse, you could be stuck underground in a hole full of water.\" I know he means well.",
     "My friend told me I have no sense of direction. I packed up my stuff and right. ",
-    "Yeah this year sucks, but 2022 will suck too. Because 2022 is 2020, too. ",
     "My friend got fired from the calendar printing company for taking a month off... :( ",
     "That was the most emotional wedding ever. Even the cake was in tiers!",
     "I heard the guy who won the ski race was actually on a sled... but they let it slide!",
