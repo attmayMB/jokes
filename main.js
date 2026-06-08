@@ -101,6 +101,12 @@ window.quotes = [
     "Apparently they mixed crab DNA with cheetah DNA... Yikes... That could go sideways really fast!",
     "My neighbor was unable to afford his water bill... so I sent him a get well soon card.",
     "It's open Mike night at autopsy club!!",
+	"I decided to sell my vacuum cleaner. All it was doing was gathering dust.",
+	"I finally published my book about reverse psychology! I do not recommend buying it though.",
+	"\"Welcome to Plastic Surgery Addicts Anonymous. I see we have a lot of new faces today...\"",
+	"They found a mummy preserved in layers of chocolate and nuts in Egypt! They believe it to be the remains of Pharaoh Rocher.",
+	"It doesn't make sense to be mad at lazy people. They didn't even do anything!",
+	"A book fell on my head in my office at work. I've only got my shelf to blame.",
 ];
 
 const quotes = window.quotes;
